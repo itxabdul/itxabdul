@@ -7,7 +7,7 @@ I’m a serial entrepreneur and data-driven strategist passionate about building
 My journey spans across **analytics leadership, trading automation, and martech ventures** — now evolving into creating scalable, future-proof solutions.  
 
 ### 📚 Currently Exploring
-- **AI/ML-powered trading systems** (Forex, Gold, Oil)  
+- **AI/ML-powered systems**   
 - **Gamified loyalty & engagement platforms** (BOUNZ, UAX, enterprise MVPs)  
 - **Next.js, MCP extensions, and automation workflows** for SaaS and AI-native tools  
 - **Utility-focused blockchain protocols**  
